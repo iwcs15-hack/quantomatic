@@ -31,7 +31,8 @@ public class TheoryManager {
 	// the first theory listed here is made active
 	private static final String[] defaultTheories = {
 		"/theories/red_green/red-green-theory.qth",
-		"/theories/black_white/black-white-theory.qth"
+		"/theories/black_white/black-white-theory.qth",
+		"/theories/compact_closed/compact-closed-theory.qth"
 	};
 	private static final String theoryFilename = "theory.qth";
 	private static final String rulesetFilename = "ruleset.qrs";

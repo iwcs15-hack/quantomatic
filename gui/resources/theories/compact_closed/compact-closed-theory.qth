@@ -1,0 +1,19 @@
+{
+	"name": "Compact closed",
+	"coreName": "compact_closed",
+	"vertexTypePath": "type",
+	"vertexTypes": {
+		"EE": {
+			"mnemonic": "e",
+			"visualization": {
+				"node": "hadamard.svg"
+			}
+		},
+        "Var": {
+            "mnemonic": "v",
+            "visualization": {
+                "node": "green.svg"
+            }
+        }
+	}
+}
