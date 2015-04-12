@@ -22,6 +22,11 @@ ML_file "theories/ghz_w/io.ML";
 ML_file "theories/ghz_w/theory.ML";
 (*ML_file "theories/ghz_w/test/test.ML";*)
 
+(* Graphs have Epsilon/Eta nodes and strings as data *)
+ML_file "theories/compact_closed/data.ML";
+ML_file "theories/compact_closed/io.ML";
+ML_file "theories/compact_closed/theory.ML";
+
 (* Graphs having vertices with strings as data, substring as matching *)
 ML_file "theories/substrings/data.ML";
 ML_file "theories/substrings/io.ML";
